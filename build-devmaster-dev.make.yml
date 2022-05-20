@@ -11,7 +11,7 @@ projects:
     type: core
     download:
       type: git
-      tag: 7.73
+      tag: 7.89
 
   # DEVELOPERS: If submitting a Pull Request, CHANGE THE URL or BRANCH here, if you need to test devshop and devmaster repos.
   devmaster:
